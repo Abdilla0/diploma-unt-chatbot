@@ -1,0 +1,195 @@
+{
+  "subject": "history",
+  "metadata": {
+    "total_questions": 50,
+    "topics": {
+      "kazakhstan_history": "Kazakhstan History",
+      "world_history": "World History",
+      "ancient_civilizations": "Ancient Civilizations",
+      "modern_history": "Modern History",
+      "cultural_history": "Cultural History"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "topic": "kazakhstan_history",
+      "question_en": "When did Kazakhstan gain independence?",
+      "question_ru": "Когда Казахстан получил независимость?",
+      "question_kk": "Қазақстан қашан тәуелсіздік алды?",
+      "options": {
+        "A": "1989",
+        "B": "1990",
+        "C": "1991",
+        "D": "1992",
+        "E": "1993"
+      },
+      "correct": "C",
+      "explanation_en": "Kazakhstan declared independence on December 16, 1991.",
+      "explanation_ru": "Казахстан провозгласил независимость 16 декабря 1991 года.",
+      "explanation_kk": "Қазақстан 1991 жылдың 16 желтоқсанында тәуелсіздік жариялады."
+    },
+    {
+      "id": 2,
+      "topic": "kazakhstan_history",
+      "question_en": "Who was the first president of Kazakhstan?",
+      "question_ru": "Кто был первым президентом Казахстана?",
+      "question_kk": "Қазақстанның бірінші президенті кім болды?",
+      "options": {
+        "A": "Nazarbayev",
+        "B": "Tokayev",
+        "C": "Kunaev",
+        "D": "Ryskulov",
+        "E": "Seifullin"
+      },
+      "correct": "A",
+      "explanation_en": "Nursultan Nazarbayev was the first president of Kazakhstan.",
+      "explanation_ru": "Нурсултан Назарбаев был первым президентом Казахстана.",
+      "explanation_kk": "Нұрсұлтан Назарбаев Қазақстанның бірінші президенті болды."
+    },
+    {
+      "id": 3,
+      "topic": "ancient_civilizations",
+      "question_en": "Where were the pyramids built?",
+      "question_ru": "Где были построены пирамиды?",
+      "question_kk": "Пирамидалар қай жерде салынған?",
+      "options": {
+        "A": "Greece",
+        "B": "Egypt",
+        "C": "Rome",
+        "D": "China",
+        "E": "India"
+      },
+      "correct": "B",
+      "explanation_en": "The famous pyramids were built in ancient Egypt.",
+      "explanation_ru": "Знаменитые пирамиды были построены в древнем Египте.",
+      "explanation_kk": "Атақты пирамидалар ежелгі Мысырда салынған."
+    },
+    {
+      "id": 4,
+      "topic": "ancient_civilizations",
+      "question_en": "Who built the Great Wall?",
+      "question_ru": "Кто построил Великую стену?",
+      "question_kk": "Ұлы Қорғанды кім салды?",
+      "options": {
+        "A": "Romans",
+        "B": "Greeks",
+        "C": "Chinese",
+        "D": "Mongols",
+        "E": "Persians"
+      },
+      "correct": "C",
+      "explanation_en": "The Great Wall was built by various Chinese dynasties.",
+      "explanation_ru": "Великая стена была построена различными китайскими династиями.",
+      "explanation_kk": "Ұлы Қорған әртүрлі қытай династиялары салған."
+    },
+    {
+      "id": 5,
+      "topic": "world_history",
+      "question_en": "When did World War II end?",
+      "question_ru": "Когда закончилась Вторая мировая война?",
+      "question_kk": "Екінші дүниежүзілік соғыс қашан аяқталды?",
+      "options": {
+        "A": "1943",
+        "B": "1944",
+        "C": "1945",
+        "D": "1946",
+        "E": "1947"
+      },
+      "correct": "C",
+      "explanation_en": "World War II ended in 1945.",
+      "explanation_ru": "Вторая мировая война закончилась в 1945 году.",
+      "explanation_kk": "Екінші дүниежүзілік соғыс 1945 жылы аяқталды."
+    },
+    {
+      "id": 6,
+      "topic": "world_history",
+      "question_en": "Who discovered America?",
+      "question_ru": "Кто открыл Америку?",
+      "question_kk": "Американы кім ашты?",
+      "options": {
+        "A": "Magellan",
+        "B": "Columbus",
+        "C": "Vespucci",
+        "D": "Cook",
+        "E": "Drake"
+      },
+      "correct": "B",
+      "explanation_en": "Christopher Columbus reached the Americas in 1492.",
+      "explanation_ru": "Христофор Колумб достиг Америки в 1492 году.",
+      "explanation_kk": "Христофор Колумб 1492 жылы Америкаға жетті."
+    },
+    {
+      "id": 7,
+      "topic": "modern_history",
+      "question_en": "When did the Soviet Union collapse?",
+      "question_ru": "Когда распался Советский Союз?",
+      "question_kk": "Кеңес Одағы қашан ыдырады?",
+      "options": {
+        "A": "1989",
+        "B": "1990",
+        "C": "1991",
+        "D": "1992",
+        "E": "1993"
+      },
+      "correct": "C",
+      "explanation_en": "The Soviet Union officially dissolved on December 26, 1991.",
+      "explanation_ru": "Советский Союз официально распался 26 декабря 1991 года.",
+      "explanation_kk": "Кеңес Одағы 1991 жылдың 26 желтоқсанында ресми түрде ыдырады."
+    },
+    {
+      "id": 8,
+      "topic": "modern_history",
+      "question_en": "When did humans first land on the moon?",
+      "question_ru": "Когда люди впервые высадились на Луне?",
+      "question_kk": "Адамдар Айға алғаш рет қашан қонды?",
+      "options": {
+        "A": "1965",
+        "B": "1967",
+        "C": "1969",
+        "D": "1971",
+        "E": "1973"
+      },
+      "correct": "C",
+      "explanation_en": "Apollo 11 landed on the moon on July 20, 1969.",
+      "explanation_ru": "Аполлон-11 прилунился 20 июля 1969 года.",
+      "explanation_kk": "Аполлон-11 1969 жылдың 20 шілдесінде Айға қонды."
+    },
+    {
+      "id": 9,
+      "topic": "cultural_history",
+      "question_en": "Who painted the Mona Lisa?",
+      "question_ru": "Кто нарисовал Мону Лизу?",
+      "question_kk": "Мона Лизаны кім салды?",
+      "options": {
+        "A": "Michelangelo",
+        "B": "Da Vinci",
+        "C": "Raphael",
+        "D": "Picasso",
+        "E": "Van Gogh"
+      },
+      "correct": "B",
+      "explanation_en": "Leonardo da Vinci painted the Mona Lisa.",
+      "explanation_ru": "Леонардо да Винчи написал Мону Лизу.",
+      "explanation_kk": "Леонардо да Винчи Мона Лизаны салды."
+    },
+    {
+      "id": 10,
+      "topic": "cultural_history",
+      "question_en": "Who wrote Romeo and Juliet?",
+      "question_ru": "Кто написал Ромео и Джульетту?",
+      "question_kk": "Ромео мен Джульеттаны кім жазды?",
+      "options": {
+        "A": "Dickens",
+        "B": "Shakespeare",
+        "C": "Tolstoy",
+        "D": "Homer",
+        "E": "Dante"
+      },
+      "correct": "B",
+      "explanation_en": "William Shakespeare wrote Romeo and Juliet.",
+      "explanation_ru": "Уильям Шекспир написал Ромео и Джульетту.",
+      "explanation_kk": "Уильям Шекспир Ромео мен Джульеттаны жазды."
+    }
+  ]
+}

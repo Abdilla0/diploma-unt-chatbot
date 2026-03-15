@@ -1,0 +1,195 @@
+{
+  "subject": "biology",
+  "metadata": {
+    "total_questions": 50,
+    "topics": {
+      "cell_biology": "Cell Biology",
+      "genetics": "Genetics",
+      "ecology": "Ecology",
+      "human_biology": "Human Biology",
+      "evolution": "Evolution"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "topic": "cell_biology",
+      "question_en": "What is the powerhouse of the cell?",
+      "question_ru": "Что является электростанцией клетки?",
+      "question_kk": "Жасушаның электр станциясы не?",
+      "options": {
+        "A": "Nucleus",
+        "B": "Ribosome",
+        "C": "Mitochondria",
+        "D": "Chloroplast",
+        "E": "ER"
+      },
+      "correct": "C",
+      "explanation_en": "Mitochondria produce ATP (energy).",
+      "explanation_ru": "Митохондрии производят АТФ (энергию).",
+      "explanation_kk": "Митохондрия АТФ (энергия) өндіреді."
+    },
+    {
+      "id": 2,
+      "topic": "cell_biology",
+      "question_en": "What controls the cell?",
+      "question_ru": "Что контролирует клетку?",
+      "question_kk": "Жасушаны не басқарады?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Nucleus",
+        "C": "Cell wall",
+        "D": "Cytoplasm",
+        "E": "Membrane"
+      },
+      "correct": "B",
+      "explanation_en": "The nucleus contains DNA and controls cell activities.",
+      "explanation_ru": "Ядро содержит ДНК и контролирует деятельность клетки.",
+      "explanation_kk": "Ядро ДНҚ қамтиды және жасуша қызметін басқарады."
+    },
+    {
+      "id": 3,
+      "topic": "genetics",
+      "question_en": "What are genes made of?",
+      "question_ru": "Из чего состоят гены?",
+      "question_kk": "Гендер неден тұрады?",
+      "options": {
+        "A": "Protein",
+        "B": "DNA",
+        "C": "RNA",
+        "D": "Lipids",
+        "E": "Carbohydrates"
+      },
+      "correct": "B",
+      "explanation_en": "Genes are segments of DNA.",
+      "explanation_ru": "Гены - это сегменты ДНК.",
+      "explanation_kk": "Гендер - ДНҚ сегменттері."
+    },
+    {
+      "id": 4,
+      "topic": "genetics",
+      "question_en": "How many chromosomes do humans have?",
+      "question_ru": "Сколько хромосом у человека?",
+      "question_kk": "Адамда неше хромосома бар?",
+      "options": {
+        "A": "23",
+        "B": "44",
+        "C": "46",
+        "D": "48",
+        "E": "50"
+      },
+      "correct": "C",
+      "explanation_en": "Humans have 46 chromosomes (23 pairs).",
+      "explanation_ru": "У человека 46 хромосом (23 пары).",
+      "explanation_kk": "Адамда 46 хромосома (23 жұп) бар."
+    },
+    {
+      "id": 5,
+      "topic": "ecology",
+      "question_en": "What is photosynthesis?",
+      "question_ru": "Что такое фотосинтез?",
+      "question_kk": "Фотосинтез дегеніміз не?",
+      "options": {
+        "A": "Making food from light",
+        "B": "Breathing",
+        "C": "Cell division",
+        "D": "Digestion",
+        "E": "Movement"
+      },
+      "correct": "A",
+      "explanation_en": "Photosynthesis converts light energy into glucose.",
+      "explanation_ru": "Фотосинтез преобразует световую энергию в глюкозу.",
+      "explanation_kk": "Фотосинтез жарық энергиясын глюкозаға айналдырады."
+    },
+    {
+      "id": 6,
+      "topic": "ecology",
+      "question_en": "What do decomposers do?",
+      "question_ru": "Что делают разлагатели?",
+      "question_kk": "Ыдыратушылар не істейді?",
+      "options": {
+        "A": "Make food",
+        "B": "Eat plants",
+        "C": "Break down dead organisms",
+        "D": "Hunt prey",
+        "E": "Pollinate"
+      },
+      "correct": "C",
+      "explanation_en": "Decomposers break down dead matter and recycle nutrients.",
+      "explanation_ru": "Разлагатели разлагают мёртвую материю и перерабатывают питательные вещества.",
+      "explanation_kk": "Ыдыратушылар өлі материяны ыдыратады және қоректік заттарды қайта өңдейді."
+    },
+    {
+      "id": 7,
+      "topic": "human_biology",
+      "question_en": "What is the largest organ?",
+      "question_ru": "Какой самый большой орган?",
+      "question_kk": "Ең үлкен орган қандай?",
+      "options": {
+        "A": "Heart",
+        "B": "Liver",
+        "C": "Skin",
+        "D": "Brain",
+        "E": "Lungs"
+      },
+      "correct": "C",
+      "explanation_en": "Skin is the largest organ of the human body.",
+      "explanation_ru": "Кожа - самый большой орган человеческого тела.",
+      "explanation_kk": "Тері - адам денесінің ең үлкен органы."
+    },
+    {
+      "id": 8,
+      "topic": "human_biology",
+      "question_en": "What carries oxygen in blood?",
+      "question_ru": "Что переносит кислород в крови?",
+      "question_kk": "Қанда оттегіні не тасымалдайды?",
+      "options": {
+        "A": "Plasma",
+        "B": "White blood cells",
+        "C": "Red blood cells",
+        "D": "Platelets",
+        "E": "Water"
+      },
+      "correct": "C",
+      "explanation_en": "Red blood cells contain hemoglobin which carries oxygen.",
+      "explanation_ru": "Красные кровяные тельца содержат гемоглобин, который переносит кислород.",
+      "explanation_kk": "Қызыл қан жасушалары оттегі тасымалдайтын гемоглобин қамтиды."
+    },
+    {
+      "id": 9,
+      "topic": "evolution",
+      "question_en": "Who proposed natural selection?",
+      "question_ru": "Кто предложил естественный отбор?",
+      "question_kk": "Табиғи сұрыпты кім ұсынды?",
+      "options": {
+        "A": "Einstein",
+        "B": "Newton",
+        "C": "Darwin",
+        "D": "Mendel",
+        "E": "Watson"
+      },
+      "correct": "C",
+      "explanation_en": "Charles Darwin proposed the theory of natural selection.",
+      "explanation_ru": "Чарльз Дарвин предложил теорию естественного отбора.",
+      "explanation_kk": "Чарльз Дарвин табиғи сұрып теориясын ұсынды."
+    },
+    {
+      "id": 10,
+      "topic": "evolution",
+      "question_en": "What is adaptation?",
+      "question_ru": "Что такое адаптация?",
+      "question_kk": "Бейімделу дегеніміз не?",
+      "options": {
+        "A": "Random change",
+        "B": "Trait that helps survival",
+        "C": "Mutation",
+        "D": "Reproduction",
+        "E": "Migration"
+      },
+      "correct": "B",
+      "explanation_en": "Adaptation is a trait that increases an organism's chance of survival.",
+      "explanation_ru": "Адаптация - черта, увеличивающая шансы организма на выживание.",
+      "explanation_kk": "Бейімделу - организмнің өмір сүру мүмкіндігін арттыратын қасиет."
+    }
+  ]
+}
