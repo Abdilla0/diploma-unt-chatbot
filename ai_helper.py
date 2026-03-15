@@ -8,7 +8,7 @@ load_dotenv()
 print("🔮 Using Gemini AI")
 
 # ✅ SECURITY FIX: Load API key from environment variable
-GEMINI_API_KEY = "AIzaSyCTGCHAmt_LN7b0k3ivo5RT4nkMlbxLGn0"
+GEMINI_API_KEY = 
 
 if not GEMINI_API_KEY:
     print("❌ ERROR: GEMINI_API_KEY not found in .env file!")
